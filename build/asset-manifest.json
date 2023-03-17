@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baeaf22c.css",
+    "main.js": "/static/js/main.ab841911.js",
+    "static/media/Balon-Dorado.png": "/static/media/Balon-Dorado.bb7abfc8b3677d903b52.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/WaveBack.png": "/static/media/WaveBack.743709eed8cf7c0bfe17.png",
+    "static/media/Formacion4321.png": "/static/media/Formacion4321.dab79c9b75a0366c7418.png",
+    "static/media/Formacion343.png": "/static/media/Formacion343.d9dc9f0e00d75e6240ca.png",
+    "static/media/Formacion451.png": "/static/media/Formacion451.38b0095e94d011eaa0ba.png",
+    "static/media/Formacion3421.png": "/static/media/Formacion3421.fdc205f99e76b4931019.png",
+    "static/media/Formacion352.png": "/static/media/Formacion352.0704d0d287326d0498b6.png",
+    "static/media/Formacion442.png": "/static/media/Formacion442.af187e5dd0d8464b625d.png",
+    "static/media/Formacion541.png": "/static/media/Formacion541.e335419300b5f73e291e.png",
+    "static/media/Formacion4411.png": "/static/media/Formacion4411.a50b6ae17e19239d50e2.png",
+    "index.html": "/index.html",
+    "main.baeaf22c.css.map": "/static/css/main.baeaf22c.css.map",
+    "main.ab841911.js.map": "/static/js/main.ab841911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baeaf22c.css",
+    "static/js/main.ab841911.js"
+  ]
+}

@@ -1,0 +1,25 @@
+.btn {
+    position: fixed;
+    left: 220px;
+    top: 430px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #eac12d;
+    border: 0;
+    border-radius: 50px;
+    color: #fff;
+    padding: 20px;
+    width: 300px;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0px 3px 3px lightgray;
+    transition: 0.5s all ease;
+    position: absolute;
+}
+
+.btn:hover {
+    background-color: #ffc800;
+    transform: translateY(-3px);
+    color:#313E50;
+}
